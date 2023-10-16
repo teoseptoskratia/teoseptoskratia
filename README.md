@@ -1,1 +1,1 @@
-# teoseptoskratia.com
+# https://teoseptoskratia.com
