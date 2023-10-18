@@ -8,8 +8,8 @@ JDK 1.8
 
 You should `lein npm install` before doing anything to ensure you get the `source-map-support` library.
 
-To build the clojurescript into a node script, use `lein build` (aliased to `lein cljsbuild once main`).
-To then run the node app use `node build/main.js`.
+To build the clojurescript into a node script, use `lein build && lein resource` (aliased to `lein cljsbuild once main`).
+To then run the node app use `node build/server/main.js`.
 
 You can add clojure and clojurescript dependencies in the normal `:dependency` spot.
 You can also add `npm` dependencies in the `:npm {:dependency []}` spot.
