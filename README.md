@@ -26,7 +26,7 @@ To create a build for release, simply call `lein release`.
 This calls `lein do clean, build`, tags the commit, and deploys a build to either/both a maven repo and/or npm.
 
 
-![Alt Start](1.Start..png "Start")
+![Alt Start](1.Start.png "Start")
 
 ![Alt Admin](2.Admin.png "Admin")
 
