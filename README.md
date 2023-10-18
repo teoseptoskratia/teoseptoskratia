@@ -1,6 +1,6 @@
 # https://teoseptoskratia.com
 
-![Alt Start](1.Start.png "Start")
+![Alt Start](1.Start..png "Start")
 
 ![Alt Admin](2.Admin.png "Admin")
 
