@@ -19,7 +19,8 @@
 
   :profiles {:dev {:dependencies [[lein-doo "0.1.6"]]}}
 
-  :npm {:dependencies [[source-map-support "0.4.0"]]
+  :npm {:dependencies [[source-map-support "0.4.0"]
+                       [express "4.18.2"]]
         :package {;; To distribute a node binary, set :bin
                   ; :bin {"teoseptoskratia" "bin/main.js"}
                   ;; To distribute a node library, set :main
