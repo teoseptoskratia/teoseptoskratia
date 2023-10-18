@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c1686b0-779b-47ae-8aa0-b86e0b46f711" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Start.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/1.Start.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.Admin.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/2.Admin.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.Create_Customer.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/3.Create_Customer.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.Customer.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/4.Customer.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.Wallets.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/5.Wallets.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.DEX.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/6.DEX.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,6 +79,7 @@
       <updated>1697640413943</updated>
       <workItem from="1697640415056" duration="91000" />
       <workItem from="1697640580142" duration="210000" />
+      <workItem from="1697643750565" duration="45000" />
     </task>
     <servers />
   </component>

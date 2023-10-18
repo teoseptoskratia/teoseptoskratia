@@ -1,5 +1,9 @@
 # https://teoseptoskratia.com
 
+## Requirements
+
+JDK 1.8
+
 ## Usage
 
 You should `lein npm install` before doing anything to ensure you get the `source-map-support` library.
